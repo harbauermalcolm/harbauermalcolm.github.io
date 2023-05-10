@@ -4,7 +4,7 @@ This is my home page! My name is Malcolm Harbauer and I am a student at [Cal Sta
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/harbauermalcolm.
+My GitHub page is [@harbauermalcolm](http://github.com/harbauermalcolm).
 
 ### CPSC 120
 
@@ -14,7 +14,7 @@ My GitHub page is http://github.com/harbauermalcolm.
  
 * Lab 9 
 
-    File Input and Output is one of the most interesting things we learned this semester, but it is also one of the most difficult concepts for me to understand. In lab 9, we used file i/o to make a secret number game. Secret.cc takes the secret number as a command line argument and stores it in a file. Game.cc takes the user’s guess and checks the file to see if it matches the secret number. The first part of lab nine was also interesting and challenging because we learned how to filter the contents of a file by sorting all the five letter words from a list and outputting them to the terminal. 
+    File Input and Output is one of the most interesting things we learned this semester, but it is also one of the most difficult concepts for me to understand. In lab 9, we used file i/o to make a secret number game. Secret.cc takes the secret number as a command line argument and stores it in a file. Game.cc takes the user’s guess and checks the file to see if it matches the secret number. The first part of lab nine was also interesting and challenging because we learned how to filter the contents of a file by sorting all the five letter words from a list and output them to the terminal. 
 
 * Lab 12 
 
