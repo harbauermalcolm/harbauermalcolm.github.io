@@ -18,5 +18,5 @@ My GitHub page is http://github.com/harbauermalcolm.
 
 * Lab 12 
 
-    I think lab 12 is the most exciting lab that we did because it feels like magic to make a computer construct an image. It was easily the most challenging lab because of the math and physics required to make it work, but I was excited to learn how these concepts are applied to programming. This lab sparked an interest in computer graphics and might influence the career I pursue. 
+    I think lab 12 is the most exciting lab that we did because it feels like magic to make a computer construct an image. It was easily the most challenging lab because of the math and physics required to make it work, but I was excited to learn how these concepts are applied to programming. This lab sparked an interest in computer graphics and might influence the career I pursue because I would love to work with more image processing. 
 
